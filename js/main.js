@@ -3,7 +3,7 @@ const cart = document.querySelector(".cart");
 const closeCart = document.querySelector("#cart-close");
 
 cartIcon.addEventListener("click", () => {
-  cart.classList.add("active")
+  cart.classList.add("active");
 });
 
 closeCart.addEventListener("click", () => {
