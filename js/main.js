@@ -57,7 +57,7 @@ function handle_addCartItem() {
 
   let newToAdd = {
     title,
-    price,
+    
     imgSrc,
   };
   
